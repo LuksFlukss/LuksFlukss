@@ -12,7 +12,7 @@
        alt="snake" /></a>
 </div>
 
-## 🔧 Languages and Tools that i use :
+## 🔧 Languages and Tools that I use :
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
